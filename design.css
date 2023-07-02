@@ -4,6 +4,8 @@
   display: inline-block;
   width: 7em;
   cursor: pointer;
+  position: relative;
+  left: 50%;
 }
 
 #toggle {
